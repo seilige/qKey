@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Acer\Desktop\sound\sound\main.cpp(32,16): warning C4244: =: преобразование "short" в "char", возможна потеря данных
+C:\Users\Acer\Desktop\sound\sound\main.cpp(40,17): warning C4244: =: преобразование "short" в "char", возможна потеря данных
+C:\Users\Acer\Desktop\sound\sound\main.cpp(43,21): warning C4244: =: преобразование "short" в "char", возможна потеря данных
+C:\Users\Acer\Desktop\sound\sound\main.cpp(46,20): warning C4244: =: преобразование "short" в "char", возможна потеря данных
+C:\Users\Acer\Desktop\sound\sound\main.cpp(121,21): warning C4244: аргумент: преобразование "DWORD" в "short", возможна потеря данных
+C:\Users\Acer\Desktop\sound\sound\main.cpp(158,1): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+  sound.vcxproj -> C:\Users\Acer\Desktop\sound\x64\Debug\sound.exe
